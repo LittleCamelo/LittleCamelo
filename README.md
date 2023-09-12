@@ -1,16 +1,13 @@
-### Salve 😎
+Salve  😎
 
-<!--
-**LittleCamelo/LittleCamelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Murilo dos Santos Veiga
 
-Here are some ideas to get you started:
+LittleCamelo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+18/06/2007
+
+Cólegio Helena Viana Sundin
+
+
+
+![51H0Qt9BwEL _AC_UF894,1000_QL80_](https://github.com/LittleCamelo/LittleCamelo/assets/144118983/3965d6e7-0567-41b7-9589-e3c7471d81aa)
